@@ -1,3 +1,5 @@
+# NOTE - This is deprecated and should be deleted after LeadConduit has been upgraded to the highlight.js official vue component
+
 # vue-highlightjs
 
 **This project is superseded by the official Highlight.js Vue plugin:**
